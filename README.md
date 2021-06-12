@@ -1,4 +1,4 @@
-# Rock The JVM Beginner
+# Rock The JVM - Beginner Scala and Functional Programming
 
 ## Exercises
 [Maybe](https://github.com/Chuset21/Rock-The-JVM-Beginner/blob/main/src/exercises/Maybe.scala)  
